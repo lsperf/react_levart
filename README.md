@@ -1,1 +1,1 @@
-This React website contains user authentication, projects and posts.
+This React website contains user authentication and posts management. Design is implemented with materializecss. The website contains class and functional components. Some functional components used for vizualisation only.
