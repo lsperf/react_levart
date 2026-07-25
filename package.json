@@ -37,5 +37,11 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "shell-quote": "^1.9.0"
+  },
+  "overrides": {
+    "shell-quote": "^1.9.0"
   }
 }
